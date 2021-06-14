@@ -1,7 +1,7 @@
 * Sistem FTP protokolünü UDP üzerinden gerçekleştirir.
 * Windows ve linux için uygundur.
 * Buffer boyutu 32KB olarak belirlenmiştir.
-* 
+
 # SERVER
 * Sunucu 42. portu dinler.
 
